@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Read(//c/CodeBase/Article/**)",
+      "Bash(sort:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\CodeBase\\Article"
+    ]
+  }
+}
