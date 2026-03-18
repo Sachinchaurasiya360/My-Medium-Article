@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 9"
+nav_order: 9
+---
+
 # Memory in AI Systems Deep Dive  Part 9: Retrieval-Augmented Generation  Giving AI Perfect Memory
 
 ---

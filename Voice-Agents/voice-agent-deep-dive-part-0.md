@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 0"
+nav_order: 0
+---
+
 # Voice Agents Deep Dive  Part 0: The Voice AI Landscape  How Machines Hear, Understand, and Speak
 
 ---

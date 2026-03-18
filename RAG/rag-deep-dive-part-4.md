@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 4"
+nav_order: 4
+---
+
 # RAG Deep Dive  Part 4: Retrieval Strategies  From Basic to Advanced
 
 ---

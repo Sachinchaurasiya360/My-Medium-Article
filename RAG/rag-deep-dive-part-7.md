@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 7"
+nav_order: 7
+---
+
 # RAG Deep Dive  Part 7: Evaluation and Debugging RAG Systems
 
 ---

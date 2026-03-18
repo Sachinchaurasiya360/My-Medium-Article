@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 11"
+nav_order: 11
+---
+
 # Memory in AI Systems Deep Dive  Part 11: Short-Term vs Long-Term Memory in AI Agents
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 12"
+nav_order: 12
+---
+
 # Voice Agents Deep Dive  Part 12: Voice Agent Frameworks  LiveKit, Pipecat, and Vocode
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 4"
+nav_order: 4
+---
+
 # Redis Deep Dive Series  Part 4: Networking Model, Event Loop, and Performance Engineering
 
 ---

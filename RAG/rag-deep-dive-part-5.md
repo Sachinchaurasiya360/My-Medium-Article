@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 5"
+nav_order: 5
+---
+
 # RAG Deep Dive  Part 5: Building Your First RAG Pipeline from Scratch
 
 ---

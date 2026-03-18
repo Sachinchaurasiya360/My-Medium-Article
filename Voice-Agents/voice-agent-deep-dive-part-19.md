@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 19"
+nav_order: 19
+---
+
 # Voice Agents Deep Dive  Part 19: The Capstone  Building a Production Voice Agent Platform
 
 ---

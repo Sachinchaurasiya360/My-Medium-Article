@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 6"
+nav_order: 6
+---
+
 # Redis Deep Dive Series  Part 6: Redis Cluster and Distributed Systems Concepts
 
 ---

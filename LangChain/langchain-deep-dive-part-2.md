@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 2"
+nav_order: 2
+---
+
 # LangChain Deep Dive  Part 2: Production LangChain  LangSmith, Deployment, and Best Practices
 
 ---

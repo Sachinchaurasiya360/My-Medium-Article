@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 11"
+nav_order: 11
+---
+
 # Voice Agents Deep Dive  Part 11: Voice Agent Memory  Context, Personalization, and Learning
 
 ---

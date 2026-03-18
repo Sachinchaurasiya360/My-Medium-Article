@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 7"
+nav_order: 7
+---
+
 # Memory in AI Systems Deep Dive  Part 7: Embeddings  Teaching Machines to Understand Meaning
 
 ---

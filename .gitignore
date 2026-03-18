@@ -1,0 +1,13 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+node_modules/
+.bundle/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

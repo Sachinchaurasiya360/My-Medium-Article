@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 16"
+nav_order: 16
+---
+
 # Machine Learning Deep Dive — Part 16: Model Evaluation and Selection — Beyond Accuracy
 
 ---

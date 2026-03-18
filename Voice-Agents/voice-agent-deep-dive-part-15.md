@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 15"
+nav_order: 15
+---
+
 # Voice Agents Deep Dive  Part 15: Advanced Voice Features  Authentication, Multi-Modal, and Proactive Agents
 
 ---

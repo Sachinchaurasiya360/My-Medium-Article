@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 2"
+nav_order: 2
+---
+
 # RAG Deep Dive  Part 2: Embeddings  The Heart of RAG
 
 ---

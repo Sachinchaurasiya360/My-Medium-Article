@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 3"
+nav_order: 3
+---
+
 # RAG Deep Dive  Part 3: Vector Databases and Indexing  Where Your Knowledge Lives
 
 ---

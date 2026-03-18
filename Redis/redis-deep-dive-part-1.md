@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 1"
+nav_order: 1
+---
+
 # Redis Deep Dive Series  Part 1: Architecture & Event Loop Internals
 
 ---

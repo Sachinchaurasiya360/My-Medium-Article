@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 5"
+nav_order: 5
+---
+
 # Apache Kafka Deep Dive  Part 5: Storage Engine  Segments, Indexes, Log Compaction, and Retention
 
 ---

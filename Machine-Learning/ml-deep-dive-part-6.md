@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 6"
+nav_order: 6
+---
+
 # Machine Learning Deep Dive — Part 6: Unsupervised Learning — Clustering, Dimensionality Reduction, and Anomaly Detection
 
 ---

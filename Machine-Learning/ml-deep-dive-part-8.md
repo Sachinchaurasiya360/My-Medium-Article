@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 8"
+nav_order: 8
+---
+
 # Machine Learning Deep Dive — Part 8: Neural Networks from Scratch — Building Your First Deep Learning Model
 
 ---

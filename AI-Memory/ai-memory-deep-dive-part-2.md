@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 2"
+nav_order: 2
+---
+
 # Memory in AI Systems Deep Dive  Part 2: Neural Networks as Memory Systems (With Code)
 
 ---

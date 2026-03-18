@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 2"
+nav_order: 2
+---
+
 # Apache Kafka Deep Dive  Part 2: Architecture Internals  Brokers, Controllers, and KRaft
 
 ---

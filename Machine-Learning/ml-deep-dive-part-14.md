@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 14"
+nav_order: 14
+---
+
 # Machine Learning Deep Dive — Part 14: NLP with Transformers — From Tokenization to Fine-Tuning BERT
 
 ---

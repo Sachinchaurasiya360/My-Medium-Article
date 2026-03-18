@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 3"
+nav_order: 3
+---
+
 # Voice Agents Deep Dive  Part 3: Speech Recognition  From Sound Waves to Text
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 6"
+nav_order: 6
+---
+
 # Apache Kafka Deep Dive  Part 6: Producers  Batching, Idempotence, Transactions, and Exactly-Once
 
 ---

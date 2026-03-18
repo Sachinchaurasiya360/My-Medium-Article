@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 7"
+nav_order: 7
+---
+
 # Voice Agents Deep Dive  Part 7: Real-Time Audio Pipelines  Streaming, Buffers, and WebSockets
 
 ---

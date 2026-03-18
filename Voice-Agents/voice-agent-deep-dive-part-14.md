@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 14"
+nav_order: 14
+---
+
 # Voice Agents Deep Dive  Part 14: Multi-Language and Emotion  Building Human-Like Voice Agents
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 17"
+nav_order: 17
+---
+
 # Memory in AI Systems Deep Dive  Part 17: Scaling Memory Systems in Production
 
 ---

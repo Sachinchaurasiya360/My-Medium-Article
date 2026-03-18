@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 9"
+nav_order: 9
+---
+
 # Voice Agents Deep Dive  Part 9: Your First Voice Agent  ASR + LLM + TTS in a Loop
 
 ---

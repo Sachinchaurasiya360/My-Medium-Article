@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 0"
+nav_order: 0
+---
+
 # Memory in AI Systems Deep Dive  Part 0: What Is Memory in AI? (A Developer's Perspective)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 1"
+nav_order: 1
+---
+
 # Apache Kafka Deep Dive  Part 1: Why Kafka Exists: The Distributed Log as a Systems Primitive
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 9"
+nav_order: 9
+---
+
 # Apache Kafka Deep Dive  Part 9: Production Operations  Monitoring, Incident Response, and Capacity Planning
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 1"
+nav_order: 1
+---
+
 # Voice Agents Deep Dive -- Part 1: Audio Fundamentals -- Sound, Signals, and Digital Audio for Developers
 
 ---

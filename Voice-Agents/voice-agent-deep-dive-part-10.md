@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 10"
+nav_order: 10
+---
+
 # Voice Agents Deep Dive  Part 10: Dialog Management  Turn-Taking, Interruptions, and Conversation Flow
 
 ---

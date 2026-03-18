@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 17"
+nav_order: 17
+---
+
 # Voice Agents Deep Dive  Part 17: Production Infrastructure  Scaling, Monitoring, and Reliability
 
 ---

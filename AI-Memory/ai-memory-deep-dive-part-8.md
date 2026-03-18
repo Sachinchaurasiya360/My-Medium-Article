@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 8"
+nav_order: 8
+---
+
 # Memory in AI Systems Deep Dive  Part 8: Building and Understanding Vector Databases
 
 ---

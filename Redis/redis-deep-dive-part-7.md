@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 7"
+nav_order: 7
+---
+
 # Redis Deep Dive Series  Part 7: Advanced Use Cases and Real-World System Design Patterns
 
 ---

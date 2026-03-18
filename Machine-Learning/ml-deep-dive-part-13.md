@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 13"
+nav_order: 13
+---
+
 # Machine Learning Deep Dive — Part 13: Transfer Learning — Standing on the Shoulders of Giants
 
 ---

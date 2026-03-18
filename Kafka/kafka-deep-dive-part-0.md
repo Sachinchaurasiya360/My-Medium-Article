@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 0"
+nav_order: 0
+---
+
 # Apache Kafka Deep Dive  Part 0: The Foundation You Need Before Going Deep
 
 ---

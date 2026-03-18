@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 3"
+nav_order: 3
+---
+
 # Redis Deep Dive Series  Part 3: Memory Management, Persistence, and Storage Mechanics
 
 ---

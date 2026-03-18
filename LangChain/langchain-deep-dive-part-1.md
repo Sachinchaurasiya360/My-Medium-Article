@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 1"
+nav_order: 1
+---
+
 # LangChain Deep Dive  Part 1: Agents, Tools, Memory, and Advanced RAG
 
 ---

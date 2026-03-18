@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 9"
+nav_order: 9
+---
+
 # Machine Learning Deep Dive — Part 9: PyTorch Fundamentals — The Deep Learning Developer's Toolkit
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 0"
+nav_order: 0
+---
+
 # Redis Deep Dive Series  Part 0: The Foundation You Need Before Going Deep
 
 ---

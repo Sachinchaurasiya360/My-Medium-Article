@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 0"
+nav_order: 0
+---
+
 # RAG Deep Dive  Part 0: What Is RAG? Foundations and Why It Matters (A Developer's Perspective)
 
 ---

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 14"
+nav_order: 14
+---
+
 # Memory in AI Systems Deep Dive  Part 14: Personalization  Memory That Knows You
 
 ---

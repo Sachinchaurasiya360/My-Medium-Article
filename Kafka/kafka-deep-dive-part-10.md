@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 10"
+nav_order: 10
+---
+
 # Apache Kafka Deep Dive  Part 10: Advanced Patterns  Event Sourcing, CDC, CQRS, and Multi-Datacenter
 
 ---

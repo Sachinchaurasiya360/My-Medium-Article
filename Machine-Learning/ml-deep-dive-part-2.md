@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 2"
+nav_order: 2
+---
+
 # Machine Learning Deep Dive — Part 2: Your First ML Model — Linear Regression from Scratch
 
 ---

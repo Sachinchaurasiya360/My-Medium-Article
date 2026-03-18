@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Part 18"
+nav_order: 18
+---
+
 # Memory in AI Systems Deep Dive  Part 18: Research-Level Memory Architectures
 
 ---
