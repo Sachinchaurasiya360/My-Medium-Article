@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Part 6"
 nav_order: 6
 ---

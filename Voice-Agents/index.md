@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: Voice Agents
-parent: Series
-nav_order: 3
-has_children: true
-permalink: /series/voice-agents/
 ---
 
 # Voice Agents — A Developer's Deep Dive

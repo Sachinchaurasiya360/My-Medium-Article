@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: Machine Learning
-parent: Series
-nav_order: 1
-has_children: true
-permalink: /series/machine-learning/
 ---
 
 # Machine Learning — A Developer's Deep Dive

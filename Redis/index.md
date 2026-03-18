@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: Redis
-parent: Series
-nav_order: 6
-has_children: true
-permalink: /series/redis/
 ---
 
 # Redis — A Developer's Deep Dive

@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: AI Memory Systems
-parent: Series
-nav_order: 2
-has_children: true
-permalink: /series/ai-memory/
 ---
 
 # AI Memory Systems — A Developer's Deep Dive

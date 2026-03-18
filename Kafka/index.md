@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: Apache Kafka
-parent: Series
-nav_order: 5
-has_children: true
-permalink: /series/kafka/
 ---
 
 # Apache Kafka — A Developer's Deep Dive

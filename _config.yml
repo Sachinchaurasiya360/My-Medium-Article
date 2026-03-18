@@ -5,97 +5,56 @@ description: >-
 url: ""
 baseurl: "/Article"
 
-remote_theme: just-the-docs/just-the-docs@v0.10.0
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: none
+  hard_wrap: false
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-optional-front-matter
   - jekyll-default-layout
 
-# Mermaid support (built into just-the-docs)
-mermaid:
-  version: "10.9.0"
-
-# Color scheme
-color_scheme: dark
-
-# Search
-search_enabled: true
-search.heading_level: 3
-search.previews: 3
-search.preview_words_before: 5
-search.preview_words_after: 10
-search.tokenizer_separator: /[\s/]+/
-
-# Navigation
-nav_sort: case_insensitive
-
-# Footer
-gh_edit_link: false
-
-# Code copy button
-enable_copy_code_button: true
-
-# Back to top button
-back_to_top: true
-back_to_top_text: "Back to top"
-
-# Heading anchors
-heading_anchors: true
-
-# Default front matter for all pages
+# Default front matter
 defaults:
   - scope:
-      path: "Machine-Learning"
-      type: "pages"
+      path: "Machine-Learning/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: Machine Learning
-      grand_parent: Series
   - scope:
-      path: "AI-Memory"
-      type: "pages"
+      path: "AI-Memory/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: AI Memory Systems
-      grand_parent: Series
   - scope:
-      path: "Voice-Agents"
-      type: "pages"
+      path: "Voice-Agents/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: Voice Agents
-      grand_parent: Series
   - scope:
-      path: "RAG"
-      type: "pages"
+      path: "RAG/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: RAG
-      grand_parent: Series
   - scope:
-      path: "Kafka"
-      type: "pages"
+      path: "Kafka/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: Apache Kafka
-      grand_parent: Series
   - scope:
-      path: "Redis"
-      type: "pages"
+      path: "Redis/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: Redis
-      grand_parent: Series
   - scope:
-      path: "LangChain"
-      type: "pages"
+      path: "LangChain/*-part-*"
     values:
-      layout: default
+      layout: article
       parent: LangChain
-      grand_parent: Series
   - scope:
       path: ""
       type: "pages"
@@ -114,3 +73,4 @@ exclude:
   - vendor
   - .git
   - .github
+  - README.md

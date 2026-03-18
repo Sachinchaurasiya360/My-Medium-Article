@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: RAG
-parent: Series
-nav_order: 4
-has_children: true
-permalink: /series/rag/
 ---
 
 # RAG (Retrieval-Augmented Generation) — A Developer's Deep Dive

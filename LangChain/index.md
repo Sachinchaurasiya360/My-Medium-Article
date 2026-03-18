@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: series
 title: LangChain
-parent: Series
-nav_order: 7
-has_children: true
-permalink: /series/langchain/
 ---
 
 # LangChain — A Developer's Deep Dive
