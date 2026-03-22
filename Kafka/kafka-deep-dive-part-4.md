@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 4"
-nav_order: 4
----
-
 # Apache Kafka Deep Dive  Part 4: Consumer Groups  Coordination, Rebalancing, and Offset Management
 
 ---

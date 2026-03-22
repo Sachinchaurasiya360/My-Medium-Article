@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 19"
-nav_order: 19
----
-
 # Machine Learning Deep Dive — Part 19: The Capstone — Building a Production ML Platform
 
 ---

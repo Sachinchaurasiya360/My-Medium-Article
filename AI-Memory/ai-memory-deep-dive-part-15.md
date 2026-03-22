@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 15"
-nav_order: 15
----
-
 # Memory in AI Systems Deep Dive  Part 15: Multi-Modal Memory  Beyond Text
 
 ---

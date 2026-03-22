@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 18"
-nav_order: 18
----
-
 # Machine Learning Deep Dive — Part 18: MLOps — From Notebook to Production Pipeline
 
 ---

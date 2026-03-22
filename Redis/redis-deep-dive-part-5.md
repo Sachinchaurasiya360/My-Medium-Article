@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 5"
-nav_order: 5
----
-
 # Redis Deep Dive Series  Part 5: Replication, High Availability, and Sentinel Architecture
 
 ---

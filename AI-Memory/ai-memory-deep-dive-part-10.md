@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 10"
-nav_order: 10
----
-
 # Memory in AI Systems Deep Dive  Part 10: Chunking and Retrieval Optimization  The Art of Splitting Text for AI Memory
 
 ---

@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 2"
-nav_order: 2
----
-
 # Redis Deep Dive Series  Part 2: Redis Data Structures Deep Dive (Internal Encoding + Complexity)
 
 ---

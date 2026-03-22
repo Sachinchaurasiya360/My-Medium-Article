@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 15"
-nav_order: 15
----
-
 # Machine Learning Deep Dive — Part 15: Advanced Computer Vision — Object Detection, Segmentation, and GANs
 
 ---

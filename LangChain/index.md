@@ -1,8 +1,3 @@
----
-layout: series
-title: LangChain
----
-
 # LangChain — A Developer's Deep Dive
 
 **3 Parts** | From fundamentals to production deployment

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Article — DeepDive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/styles/github-dark.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-page="article">
+  <div id="progress-bar"></div>
+
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">Deep<span>Dive</span></a>
+    <ul class="nav-links" id="nav-series-links"></ul>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
+  </nav>
+
+  <!-- TOC sidebar (filled by JS) -->
+  <aside id="toc-sidebar"></aside>
+
+  <div id="article-container">
+    <!-- Loading state shown until JS renders content -->
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading article…</p>
+    </div>
+
+    <!-- These are populated by app.js after fetch -->
+    <header class="article-header" style="display:none" id="article-header-block">
+      <div class="article-layout">
+        <p class="article-breadcrumb" id="article-breadcrumb"></p>
+        <h1 id="article-title"></h1>
+      </div>
+    </header>
+
+    <div class="article-layout">
+      <div class="article-body prose" id="article-body"></div>
+    </div>
+
+    <div class="article-nav" id="article-nav" style="display:none">
+      <div class="nav-prev"></div>
+      <div class="nav-next"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-links" id="footer-series-links"></div>
+    <p>Built for engineers who want to understand the internals.</p>
+  </footer>
+
+  <button id="back-to-top" title="Back to top">↑</button>
+
+  <!-- Dependencies -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+
+  <script src="assets/js/series.js"></script>
+  <script src="assets/js/app.js"></script>
+
+  <script>
+    // Build footer + nav links (simple, no framework)
+    document.addEventListener('DOMContentLoaded', () => {
+      const navLinks = document.getElementById('nav-series-links');
+      const footer = document.getElementById('footer-series-links');
+      if (typeof SERIES !== 'undefined') {
+        SERIES.forEach(s => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = `series.html?id=${s.id}`;
+          a.textContent = s.emoji + ' ' + s.title;
+          li.appendChild(a);
+          navLinks.appendChild(li);
+
+          const fa = document.createElement('a');
+          fa.href = `series.html?id=${s.id}`;
+          fa.textContent = s.title;
+          footer.appendChild(fa);
+        });
+      }
+
+      // Show article header after app.js loads content
+      const observer = new MutationObserver(() => {
+        const header = document.getElementById('article-header-block');
+        const title = document.getElementById('article-title');
+        if (title && title.textContent && header) {
+          header.style.display = '';
+          observer.disconnect();
+        }
+      });
+      const titleEl = document.getElementById('article-title');
+      if (titleEl) observer.observe(titleEl, { childList: true, subtree: true, characterData: true });
+    });
+  </script>
+</body>
+</html>

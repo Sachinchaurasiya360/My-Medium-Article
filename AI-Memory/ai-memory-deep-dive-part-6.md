@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 6"
-nav_order: 6
----
-
 # Memory in AI Systems Deep Dive  Part 6: External Memory  When the Context Window Isn't Enough
 
 ---

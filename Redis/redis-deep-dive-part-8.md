@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 8"
-nav_order: 8
----
-
 # Redis Deep Dive Series  Part 8: Production Engineering, Scaling, Failures, and War Stories
 
 ---

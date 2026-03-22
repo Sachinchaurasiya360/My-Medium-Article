@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 6"
-nav_order: 6
----
-
 # Voice Agents Deep Dive  Part 6: Voice Cloning and Custom Voices  Making AI Sound Like Anyone
 
 ---

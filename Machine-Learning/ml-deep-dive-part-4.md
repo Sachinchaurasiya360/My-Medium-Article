@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 4"
-nav_order: 4
----
-
 # Machine Learning Deep Dive — Part 4: Trees and Forests — Decision Trees, Random Forests, and Ensemble Methods
 
 ---

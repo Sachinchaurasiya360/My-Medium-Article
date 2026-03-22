@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 8"
-nav_order: 8
----
-
 # Apache Kafka Deep Dive  Part 8: Stream Processing  Kafka Streams, ksqlDB, and Flink
 
 ---

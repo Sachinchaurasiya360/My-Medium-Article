@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 1"
-nav_order: 1
----
-
 # Memory in AI Systems Deep Dive  Part 1: How Machines Represent Information (Tokens, Numbers, and Vectors)
 
 ---

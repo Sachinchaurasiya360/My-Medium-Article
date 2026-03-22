@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 3"
-nav_order: 3
----
-
 # Machine Learning Deep Dive — Part 3: Classification — Logistic Regression, Decision Boundaries, and Evaluation
 
 ---

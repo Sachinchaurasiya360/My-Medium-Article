@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 0"
-nav_order: 0
----
-
 # LangChain Deep Dive  Part 0: LangChain Fundamentals  Chains, Prompts, and Models
 
 ---

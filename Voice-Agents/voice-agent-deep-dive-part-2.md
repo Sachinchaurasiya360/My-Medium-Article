@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 2"
-nav_order: 2
----
-
 # Voice Agents Deep Dive  Part 2: Audio Signal Processing  Spectrograms, MFCCs, and Feature Extraction
 
 ---

@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 17"
-nav_order: 17
----
-
 # Machine Learning Deep Dive — Part 17: ML System Design — Architecture for Real-World ML
 
 ---

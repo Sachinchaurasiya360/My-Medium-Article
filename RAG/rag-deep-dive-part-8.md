@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 8"
-nav_order: 8
----
-
 # RAG Deep Dive  Part 8: Production RAG  Scaling, Monitoring, and Optimization
 
 ---

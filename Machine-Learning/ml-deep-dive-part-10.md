@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 10"
-nav_order: 10
----
-
 # Machine Learning Deep Dive — Part 10: Convolutional Neural Networks — Teaching Machines to See
 
 ---

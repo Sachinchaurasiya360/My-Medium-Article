@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 1"
-nav_order: 1
----
-
 # Machine Learning Deep Dive — Part 1: The Math You Actually Need — Linear Algebra, Stats, and Probability for ML
 
 ---

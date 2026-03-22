@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 16"
-nav_order: 16
----
-
 # Memory in AI Systems Deep Dive  Part 16: Autonomous Agents With Memory  From Chat to Action
 
 ---

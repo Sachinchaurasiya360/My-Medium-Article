@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 19"
-nav_order: 19
----
-
 # Memory in AI Systems Deep Dive  Part 19: Designing a Production AI Memory Platform  The Capstone
 
 ---

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Series — DeepDive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-page="series">
+  <div id="progress-bar"></div>
+
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">Deep<span>Dive</span></a>
+    <ul class="nav-links" id="nav-series-links"></ul>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
+  </nav>
+
+  <main>
+    <div class="series-index" id="series-container">
+      <div class="loading-state"><div class="spinner"></div><p>Loading…</p></div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-links" id="footer-series-links"></div>
+    <p>Built for engineers who want to understand the internals.</p>
+  </footer>
+
+  <button id="back-to-top" title="Back to top">↑</button>
+
+  <script src="assets/js/series.js"></script>
+  <script src="assets/js/app.js"></script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const navLinks = document.getElementById('nav-series-links');
+      const footer = document.getElementById('footer-series-links');
+      if (typeof SERIES !== 'undefined') {
+        SERIES.forEach(s => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = `series.html?id=${s.id}`;
+          a.textContent = s.emoji + ' ' + s.title;
+          li.appendChild(a);
+          navLinks.appendChild(li);
+
+          const fa = document.createElement('a');
+          fa.href = `series.html?id=${s.id}`;
+          fa.textContent = s.title;
+          footer.appendChild(fa);
+        });
+      }
+    });
+  </script>
+</body>
+</html>

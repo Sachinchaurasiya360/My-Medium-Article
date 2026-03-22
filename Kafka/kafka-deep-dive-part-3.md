@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 3"
-nav_order: 3
----
-
 # Apache Kafka Deep Dive  Part 3: Replication Deep Dive  ISR, Leader Election, and Durability
 
 ---

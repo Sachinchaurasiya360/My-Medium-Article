@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 12"
-nav_order: 12
----
-
 # Memory in AI Systems Deep Dive  Part 12: Memory Compression and Summarization
 
 ---

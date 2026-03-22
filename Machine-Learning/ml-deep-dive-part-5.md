@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 5"
-nav_order: 5
----
-
 # Machine Learning Deep Dive — Part 5: The Algorithm Zoo — SVMs, KNN, Naive Bayes, and When to Use What
 
 ---

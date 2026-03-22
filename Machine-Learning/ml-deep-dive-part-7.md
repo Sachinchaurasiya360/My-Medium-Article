@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 7"
-nav_order: 7
----
-
 # Machine Learning Deep Dive — Part 7: Feature Engineering — The Art That Makes or Breaks ML Models
 
 ---

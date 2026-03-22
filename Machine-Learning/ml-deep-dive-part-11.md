@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 11"
-nav_order: 11
----
-
 # Machine Learning Deep Dive — Part 11: Sequence Models — RNNs, LSTMs, and Time Series
 
 ---

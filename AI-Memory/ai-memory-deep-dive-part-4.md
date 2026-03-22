@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 4"
-nav_order: 4
----
-
 # Memory in AI Systems Deep Dive  Part 4: Transformers and Context Windows  The Architecture That Changed Everything
 
 ---

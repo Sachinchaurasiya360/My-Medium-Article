@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 3"
-nav_order: 3
----
-
 # Memory in AI Systems Deep Dive  Part 3: The Attention Mechanism  Teaching AI to Focus (With Full Implementation)
 
 ---

@@ -1,8 +1,3 @@
----
-layout: series
-title: Apache Kafka
----
-
 # Apache Kafka — A Developer's Deep Dive
 
 **11 Parts** | From distributed logs to production operations

@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 13"
-nav_order: 13
----
-
 # Memory in AI Systems Deep Dive  Part 13: Updating and Editing Memory  When Knowledge Changes
 
 ---

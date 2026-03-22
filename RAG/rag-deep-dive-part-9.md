@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 9"
-nav_order: 9
----
-
 # RAG Deep Dive  Part 9: Multi-Modal RAG, Agentic RAG, and The Future
 
 ---

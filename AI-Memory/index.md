@@ -1,8 +1,3 @@
----
-layout: series
-title: AI Memory Systems
----
-
 # AI Memory Systems — A Developer's Deep Dive
 
 **20 Parts** | From tokens and attention to production memory platforms

@@ -1,8 +1,3 @@
----
-layout: series
-title: RAG
----
-
 # RAG (Retrieval-Augmented Generation) — A Developer's Deep Dive
 
 **10 Parts** | From chunking strategies to production RAG systems

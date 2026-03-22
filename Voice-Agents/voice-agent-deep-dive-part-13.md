@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 13"
-nav_order: 13
----
-
 # Voice Agents Deep Dive  Part 13: Phone Call Agents  Twilio, SIP, and Telephony Integration
 
 ---

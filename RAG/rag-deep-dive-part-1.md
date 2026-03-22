@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 1"
-nav_order: 1
----
-
 # RAG Deep Dive  Part 1: Text Preprocessing and Chunking Strategies
 
 ---

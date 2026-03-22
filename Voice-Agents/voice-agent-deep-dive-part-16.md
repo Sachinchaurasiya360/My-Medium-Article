@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 16"
-nav_order: 16
----
-
 # Voice Agents Deep Dive  Part 16: Latency Optimization  Making Voice Agents Feel Instant
 
 ---

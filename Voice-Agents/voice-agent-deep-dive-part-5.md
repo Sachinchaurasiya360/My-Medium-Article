@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 5"
-nav_order: 5
----
-
 # Voice Agents Deep Dive  Part 5: Speech Synthesis  Teaching Machines to Talk
 
 ---

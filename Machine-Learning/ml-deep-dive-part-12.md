@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 12"
-nav_order: 12
----
-
 # Machine Learning Deep Dive — Part 12: Training Deep Networks — Optimizers, Regularization, and Debugging
 
 ---

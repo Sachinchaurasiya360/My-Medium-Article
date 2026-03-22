@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 4"
-nav_order: 4
----
-
 # Voice Agents Deep Dive  Part 4: Real-Time ASR  Streaming Transcription and Wake Word Detection
 
 ---

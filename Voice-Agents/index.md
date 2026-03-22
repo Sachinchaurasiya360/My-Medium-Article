@@ -1,8 +1,3 @@
----
-layout: series
-title: Voice Agents
----
-
 # Voice Agents — A Developer's Deep Dive
 
 **20 Parts** | From audio signal processing to production voice AI platforms

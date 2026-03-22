@@ -1,9 +1,3 @@
----
-layout: article
-title: "Part 6"
-nav_order: 6
----
-
 # RAG Deep Dive  Part 6: Advanced RAG Patterns  HyDE, Re-ranking, Fusion, and Beyond
 
 ---

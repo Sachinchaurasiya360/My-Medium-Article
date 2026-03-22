@@ -1,8 +1,3 @@
----
-layout: series
-title: Machine Learning
----
-
 # Machine Learning — A Developer's Deep Dive
 
 **20 Parts** | Beginner to Production | ~49,000 lines of content

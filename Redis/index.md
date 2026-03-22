@@ -1,8 +1,3 @@
----
-layout: series
-title: Redis
----
-
 # Redis — A Developer's Deep Dive
 
 **9 Parts** | From event loop internals to production engineering
